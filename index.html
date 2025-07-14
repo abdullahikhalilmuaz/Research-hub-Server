@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Submit News Post</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+      }
+      .container {
+        max-width: 400px;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+      }
+      .preview {
+        margin-top: 20px;
+        padding: 10px;
+        border: 1px solid #ddd;
+        display: none;
+      }
+      img {
+        max-width: 100px;
+        display: block;
+        margin-top: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Submit News</h2>
+      <form id="newsForm" enctype="multipart/form-data">
+        <label>Email:</label>
+        <input type="email" name="email" id="email" required /><br /><br />
+
+        <label>Username:</label>
+        <input type="text" name="username" id="username" required /><br /><br />
+
+        <label>Title:</label>
+        <input type="text" name="title" id="title" required /><br /><br />
+
+        <label>Body:</label>
+        <textarea name="body" id="body" required></textarea><br /><br />
+
+        <label>Image:</label>
+        <input type="file" name="image" id="image" accept="image/*" required /><br /><br />
+
+        <button type="submit">Submit</button>
+      </form>
+
+      <div class="preview" id="preview">
+        <h3>Preview:</h3>
+        <p><strong>Email:</strong> <span id="previewEmail"></span></p>
+        <p><strong>Username:</strong> <span id="previewUsername"></span></p>
+        <p><strong>Title:</strong> <span id="previewTitle"></span></p>
+        <p><strong>Body:</strong> <span id="previewBody"></span></p>
+        <p><strong>Image:</strong> <br /><img id="previewImage" src="" /></p>
+      </div>
+    </div>
+
+    <script>
+      document.getElementById("newsForm").addEventListener("submit", async function (event) {
+        event.preventDefault();
+
+        const formData = new FormData();
+        formData.append("email", document.getElementById("email").value);
+        formData.append("username", document.getElementById("username").value);
+        formData.append("title", document.getElementById("title").value);
+        formData.append("body", document.getElementById("body").value);
+        formData.append("image", document.getElementById("image").files[0]);
+
+        try {
+          const response = await fetch("http://localhost:5000/api/news/", { // <-- FIXED URL
+            method: "POST",
+            body: formData,
+          });
+
+          const data = await response.json();
+          if (response.ok) {
+            alert("✅ News post submitted successfully!");
+
+            // Show preview
+            document.getElementById("previewEmail").textContent = data.post.user.email;
+            document.getElementById("previewUsername").textContent = data.post.user.username;
+            document.getElementById("previewTitle").textContent = data.post.title;
+            document.getElementById("previewBody").textContent = data.post.body;
+            document.getElementById("previewImage").src = data.post.image;
+
+            document.getElementById("preview").style.display = "block";
+          } else {
+            alert("❌ Error: " + (data.error || "Unknown error"));
+          }
+        } catch (error) {
+          alert("❌ Failed to submit news post. " + error.message);
+          console.error(error);
+        }
+      });
+    </script>
+  </body>
+</html>

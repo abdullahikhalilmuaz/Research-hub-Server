@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Abubakar Tafawa Balewa University, Bauchi",
+    "viceChancellor": "Professor M A Abdulazeez",
+    "website": "https://www.atbu.edu.ng",
+    "yearEstablished": 1988
+  },
+  {
+    "id": 2,
+    "name": "Ahmadu Bello University, Zaria",
+    "viceChancellor": "Prof. Adamu Ahmed",
+    "website": "https://www.abu.edu.ng",
+    "yearEstablished": 1962
+  },
+  {
+    "id": 3,
+    "name": "Bayero University, Kano",
+    "viceChancellor": "Professor Sagir Abbas",
+    "website": "https://www.buk.edu.ng",
+    "yearEstablished": 1975
+  },
+  {
+    "id": 4,
+    "name": "Federal University Gashua, Yobe",
+    "viceChancellor": "Prof. Maimuna Waziri",
+    "website": "https://www.fugashua.edu.ng",
+    "yearEstablished": 2013
+  },
+  {
+    "id": 5,
+    "name": "Federal University of Petroleum Resources, Effurun",
+    "viceChancellor": "Prof. Akporure Rim-Rukeh",
+    "website": "https://www.fupre.edu.ng",
+    "yearEstablished": 2007
+  },
+  {
+    "id": 6,
+    "name": "Federal University of Technology, Akure",
+    "viceChancellor": "Prof. Adenike Oladiji",
+    "website": "https://www.futa.edu.ng",
+    "yearEstablished": 1981
+  },
+  {
+    "id": 7,
+    "name": "Federal University of Technology, Minna",
+    "viceChancellor": "Professor Faruk Adamu Kuta",
+    "website": "https://www.futminna.edu.ng",
+    "yearEstablished": 1982
+  },
+  {
+    "id": 8,
+    "name": "Federal University of Technology, Owerri",
+    "viceChancellor": "Prof. (Mrs) Nnenna Nnannaya Oti",
+    "website": "https://www.futo.edu.ng",
+    "yearEstablished": 1980
+  },
+  {
+    "id": 9,
+    "name": "Federal University, Dutse, Jigawa State",
+    "viceChancellor": "Professor Abdulkarim Muhammad",
+    "website": "https://www.fud.edu.ng/",
+    "yearEstablished": 2011
+  },
+  {
+    "id": 10,
+    "name": "Federal University, Dutsin-Ma, Katsina",
+    "viceChancellor": "Professor Armaya'u Hamisu",
+    "website": "https://www.fudutsinma.edu.ng",
+    "yearEstablished": 2011
+  },
+  {
+    "id": 11,
+    "name": "Federal University, Kashere, Gombe State",
+    "viceChancellor": "Prof. Umaru A Pate",
+    "website": "https://www.fukashere.edu.ng",
+    "yearEstablished": 2011
+  },
+  {
+    "id": 12,
+    "name": "Federal University, Lafia, Nasarawa State",
+    "viceChancellor": "Professor Sheju Adbul Rahman",
+    "website": "https://www.fulafia.edu.ng",
+    "yearEstablished": 2011
+  },
+  {
+    "id": 13,
+    "name": "Federal University, Lokoja, Kogi State",
+    "viceChancellor": "Professor Olayemi Akinwunmi",
+    "website": "https://www.fulokoja.edu.ng",
+    "yearEstablished": 2011
+  },
+  {
+    "id": 14,
+    "name": "Alex Ekwueme University, Ndufu-Alike, Ebonyi State",
+    "viceChancellor": "Professor Sunday Oge Egom",
+    "website": "https://www.funai.edu.ng",
+    "yearEstablished": 2011
+  },
+  {
+    "id": 15,
+    "name": "Federal University, Otuoke, Bayelsa",
+    "viceChancellor": "Professor Teddy Charles Adias",
+    "website": "https://www.fuotuoke.edu.ng/",
+    "yearEstablished": 2011
+  },
+  {
+    "id": 16,
+    "name": "Federal University, Oye-Ekiti, Ekiti State",
+    "viceChancellor": "Prof. Abayomi Sunday Fasina",
+    "website": "https://www.fuoye.edu.ng/",
+    "yearEstablished": 2011
+  },
+  {
+    "id": 17,
+    "name": "Federal University, Wukari, Taraba State",
+    "viceChancellor": "Professor Jude Sammani Rabo",
+    "website": "https://www.fuwukari.edu.ng/",
+    "yearEstablished": 2011
+  },
+  {
+    "id": 18,
+    "name": "Federal University, Birnin Kebbi",
+    "viceChancellor": "Prof. Muhammad Zaiyan Umar",
+    "website": "https://www.fubk.edu.ng",
+    "yearEstablished": 2013
+  },
+  {
+    "id": 19,
+    "name": "Federal University, Gusau Zamfara",
+    "viceChancellor": "Prof. Muazu Abubakar Gusau",
+    "website": "https://www.fugusau.edu.ng",
+    "yearEstablished": 2013
+  },
+  {
+    "id": 20,
+    "name": "Michael Okpara University of Agricultural Umudike",
+    "viceChancellor": "Professor Maduebibisi Ofo Iwe",
+    "website": "https://www.mouau.edu.ng",
+    "yearEstablished": 1992
+  },
+  {
+    "id": 21,
+    "name": "Modibbo Adama University of Technology, Yola",
+    "viceChancellor": "Professor Abdullahi Liman Tukur",
+    "website": "https://www.mautech.edu.ng",
+    "yearEstablished": 1981
+  },
+  {
+    "id": 22,
+    "name": "National Open University of Nigeria, Abuja",
+    "viceChancellor": "Professor Olufemi Peters",
+    "website": "https://www.nou.edu.ng",
+    "yearEstablished": 2002
+  },
+  {
+    "id": 23,
+    "name": "Nigeria Police Academy Wudil",
+    "viceChancellor": "Professor Zana Mohammed Ibrahim",
+    "website": "https://polac.edu.ng/",
+    "yearEstablished": 2013
+  },
+  {
+    "id": 24,
+    "name": "Nigerian Defence Academy Kaduna",
+    "viceChancellor": "Professor Isah Garba (Provost)",
+    "website": "https://www.nda.edu.ng",
+    "yearEstablished": 1985
+  },
+  {
+    "id": 25,
+    "name": "Nnamdi Azikiwe University, Awka",
+    "viceChancellor": "Professor Charles Esimone",
+    "website": "https://www.unizik.edu.ng",
+    "yearEstablished": 1992
+  },
+  {
+    "id": 26,
+    "name": "Obafemi Awolowo University, Ile-Ife",
+    "viceChancellor": "Professor Adebayo Simeon Bamire",
+    "website": "https://www.oauife.edu.ng",
+    "yearEstablished": 1962
+  },
+  {
+    "id": 27,
+    "name": "University of Abuja, Gwagwalada",
+    "viceChancellor": "Professor Abdul-Rasheed Na' Allah",
+    "website": "https://www.uniabuja.edu.ng",
+    "yearEstablished": 1988
+  },
+  {
+    "id": 28,
+    "name": "Federal University of Agriculture, Abeokuta",
+    "viceChancellor": "Professor Felix Kolawole Salako",
+    "website": "https://www.unaab.edu.ng",
+    "yearEstablished": 1988
+  },
+  {
+    "id": 29,
+    "name": "Joseph Sarwuan Tarka University, Makurdi",
+    "viceChancellor": "Prof. Richard Anande Kimbir",
+    "website": "https://www.uam.edu.ng",
+    "yearEstablished": 1988
+  },
+  {
+    "id": 30,
+    "name": "University of Benin",
+    "viceChancellor": "Professor Lilian Salami",
+    "website": "https://www.uniben.edu.ng",
+    "yearEstablished": 1970
+  },
+  {
+    "id": 31,
+    "name": "University of Calabar",
+    "viceChancellor": "Prof. Florence Obi",
+    "website": "https://www.unical.edu.ng",
+    "yearEstablished": 1975
+  },
+  {
+    "id": 32,
+    "name": "University of Ibadan",
+    "viceChancellor": "Professor Kayode Oyebode Adebowale",
+    "website": "https://www.ui.edu.ng",
+    "yearEstablished": 1948
+  },
+  {
+    "id": 33,
+    "name": "University of Ilorin",
+    "viceChancellor": "Prof. Wahab O. Egbewole",
+    "website": "https://www.unilorin.edu.ng",
+    "yearEstablished": 1975
+  },
+  {
+    "id": 34,
+    "name": "University of Jos",
+    "viceChancellor": "Prof. Tanko Ishaya",
+    "website": "https://www.unijos.edu.ng",
+    "yearEstablished": 1975
+  },
+  {
+    "id": 35,
+    "name": "University of Lagos",
+    "viceChancellor": "Prof. Folasade T Ogunsola",
+    "website": "https://www.unilag.edu.ng",
+    "yearEstablished": 1962
+  },
+  {
+    "id": 36,
+    "name": "University of Maiduguri",
+    "viceChancellor": "Professor Aliyu Shugaba",
+    "website": "https://www.unimaid.edu.ng",
+    "yearEstablished": 1975
+  },
+  {
+    "id": 37,
+    "name": "University of Nigeria, Nsukka",
+    "viceChancellor": "Prof. Charles Igwe",
+    "website": "https://www.unn.edu.ng",
+    "yearEstablished": 1960
+  },
+  {
+    "id": 38,
+    "name": "University of Port-Harcourt",
+    "viceChancellor": "Professor Owunari Georgewill",
+    "website": "https://www.uniport.edu.ng",
+    "yearEstablished": 1975
+  },
+  {
+    "id": 39,
+    "name": "University of Uyo",
+    "viceChancellor": "Professor Nyaudo Ndaeyo",
+    "website": "https://www.uniuyo.edu.ng",
+    "yearEstablished": 1991
+  },
+  {
+    "id": 40,
+    "name": "Usumanu Danfodiyo University",
+    "viceChancellor": "Professor L S Bilbis",
+    "website": "https://www.udusok.edu.ng",
+    "yearEstablished": 1975
+  }
+]

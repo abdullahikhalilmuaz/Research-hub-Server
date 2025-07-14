@@ -1,0 +1,1038 @@
+[
+  {
+    "id": 1,
+    "name": "Achievers University, Owo",
+    "viceChancellor": "Professor Samuel Aje",
+    "website": "https://www.achievers.edu.ng",
+    "yearEstablished": 2007
+  },
+  {
+    "id": 2,
+    "name": "Adeleke University, Ede",
+    "viceChancellor": "Prof. Samuel E Alao",
+    "website": "https://www.adelekeuniversity.edu.ng",
+    "yearEstablished": 2011
+  },
+  {
+    "id": 3,
+    "name": "Afe Babalola University, Ado-Ekiti - Ekiti State",
+    "viceChancellor": "Prof. E. Smaranda Olarinde",
+    "website": "https://www.abuad.edu.ng",
+    "yearEstablished": 2009
+  },
+  {
+    "id": 4,
+    "name": "Ajayi Crowther University, Ibadan",
+    "viceChancellor": "Prof. Timothy A. Adebayo",
+    "website": "https://www.acu.edu.ng",
+    "yearEstablished": 2005
+  },
+  {
+    "id": 5,
+    "name": "Al-Hikmah University, Ilorin",
+    "viceChancellor": "Professor Noah Yusuf",
+    "website": "https://www.alhikmah.edu.ng",
+    "yearEstablished": 2005
+  },
+  {
+    "id": 6,
+    "name": "Al-Qalam University, Katsina",
+    "viceChancellor": "Prof. Nasiru Musa Yauri",
+    "website": "https://www.auk.edu.ng",
+    "yearEstablished": 2005
+  },
+  {
+    "id": 7,
+    "name": "American University of Nigeria, Yola",
+    "viceChancellor": "Dr. Dewayne Frazier",
+    "website": "https://www.aun.edu.ng",
+    "yearEstablished": 2003
+  },
+  {
+    "id": 8,
+    "name": "Augustine University",
+    "viceChancellor": "Prof. Steve Afolami",
+    "website": "https://www.augustineuniversity.edu.ng/",
+    "yearEstablished": 2015
+  },
+  {
+    "id": 9,
+    "name": "Babcock University, Ilishan-Remo",
+    "viceChancellor": "Professor Ademola Stephen Tayo",
+    "website": "https://www.babcock.edu.ng",
+    "yearEstablished": 1999
+  },
+  {
+    "id": 10,
+    "name": "Baze University",
+    "viceChancellor": "Prof. Ebelechukwu K. Okafor (Ag.)",
+    "website": "https://www.bazeuniversity.edu.ng",
+    "yearEstablished": 2011
+  },
+  {
+    "id": 11,
+    "name": "Bells University of Technology, Otta",
+    "viceChancellor": "Professor Jeremiah Ojediran",
+    "website": "https://www.bellsuniversity.edu.ng/",
+    "yearEstablished": 2005
+  },
+  {
+    "id": 12,
+    "name": "Benson Idahosa University, Benin City",
+    "viceChancellor": "Prof. Sam Guobadia",
+    "website": "https://www.biu.edu.ng/",
+    "yearEstablished": 2002
+  },
+  {
+    "id": 13,
+    "name": "Bingham University, New Karu",
+    "viceChancellor": "Prof. Haruna Kuje Ayuba",
+    "website": "https://www.binghamuni.edu.ng",
+    "yearEstablished": 2005
+  },
+  {
+    "id": 14,
+    "name": "Bowen University, Iwo",
+    "viceChancellor": "Professor. Joshua Ogunwole",
+    "website": "https://www.bowen.edu.ng",
+    "yearEstablished": 2001
+  },
+  {
+    "id": 15,
+    "name": "Caleb University, Lagos",
+    "viceChancellor": "Professor Nosa Owens-Ibie",
+    "website": "https://www.calebuniversity.edu.ng",
+    "yearEstablished": 2007
+  },
+  {
+    "id": 16,
+    "name": "Caritas University, Enugu",
+    "viceChancellor": "Prof. Michael Uchenna Orji",
+    "website": "https://www.caritasuni.edu.ng/",
+    "yearEstablished": 2005
+  },
+  {
+    "id": 17,
+    "name": "Chrisland University",
+    "viceChancellor": "Prof (Mrs) Chinedum Peace Babalola",
+    "website": "https://www.chrislanduniversity.edu.ng",
+    "yearEstablished": 2015
+  },
+  {
+    "id": 18,
+    "name": "Covenant University Ota",
+    "viceChancellor": "Prof. Abiodun Humphrey Adebayo",
+    "website": "https://www.covenantuniversity.edu.ng/",
+    "yearEstablished": 2002
+  },
+  {
+    "id": 19,
+    "name": "Crawford University Igbesa",
+    "viceChancellor": "Prof. Isaac Rotimi Ajayi",
+    "website": "https://www.crawforduniversity.edu.ng",
+    "yearEstablished": 2005
+  },
+  {
+    "id": 20,
+    "name": "Crescent University",
+    "viceChancellor": "Professor Ibrahim Gbajabiamila",
+    "website": "https://www.crescent-university.edu.ng",
+    "yearEstablished": 2005
+  },
+  {
+    "id": 21,
+    "name": "Edwin Clark University, Kaigbodo",
+    "viceChancellor": "Prof. Timothy O Olagbemiro",
+    "website": "https://www.edwinclarkuniversity.edu.ng/",
+    "yearEstablished": 2015
+  },
+  {
+    "id": 22,
+    "name": "Elizade University, Ilara-Mokin",
+    "viceChancellor": "Prof. Kayode Ijadunola",
+    "website": "https://www.elizadeuniversity.edu.ng",
+    "yearEstablished": 2012
+  },
+  {
+    "id": 23,
+    "name": "Evangel University, Akaeze",
+    "viceChancellor": "Prof. I U Kalu",
+    "website": "https://www.evangeluniversity.edu.ng",
+    "yearEstablished": 2012
+  },
+  {
+    "id": 24,
+    "name": "Fountain University, Oshogbo",
+    "viceChancellor": "Prof. Amidu Olalekan Sanni",
+    "website": "https://www.fuo.edu.ng",
+    "yearEstablished": 2007
+  },
+  {
+    "id": 25,
+    "name": "Godfrey Okoye University, Ugwuomu-Nike - Enugu State",
+    "viceChancellor": "Prof. (Revd.) Chikelu. Anieke",
+    "website": "https://www.gouni.edu.ng",
+    "yearEstablished": 2009
+  },
+  {
+    "id": 26,
+    "name": "Gregory University, Uturu",
+    "viceChancellor": "Prof. M O E Iwuala",
+    "website": "https://www.gregoryuniversity.com",
+    "yearEstablished": 2012
+  },
+  {
+    "id": 27,
+    "name": "Hallmark University, Ijebi Itele, Ogun",
+    "viceChancellor": "Prof. Segun Odunola",
+    "website": "https://www.hallmark.edu.ng",
+    "yearEstablished": 2015
+  },
+  {
+    "id": 28,
+    "name": "Hezekiah University, Umudi",
+    "viceChancellor": "Prof. Chiedozie O. Ibegbulem",
+    "website": "https://hezekiah.edu.ng/",
+    "yearEstablished": 2015
+  },
+  {
+    "id": 29,
+    "name": "Igbinedion University Okada",
+    "viceChancellor": "Professor Lawrence Ikechukwu Ezemonye",
+    "website": "https://www.iuokada.edu.ng",
+    "yearEstablished": 1999
+  },
+  {
+    "id": 30,
+    "name": "Joseph Ayo Babalola University, Ikeji-Arakeji",
+    "viceChancellor": "Professor Kola Sonaike",
+    "website": "https://www.jabu.edu.ng",
+    "yearEstablished": 2006
+  },
+  {
+    "id": 31,
+    "name": "Kings University, Ode Omu",
+    "viceChancellor": "Prof. Adenike Kuku",
+    "website": "https://www.kingsuniversity.edu.ng/",
+    "yearEstablished": 2015
+  },
+  {
+    "id": 32,
+    "name": "Kwararafa University, Wukari",
+    "viceChancellor": "Professor Yakubu A Ochefu",
+    "website": "https://www.kwararafauniversity.edu.ng",
+    "yearEstablished": 2005
+  },
+  {
+    "id": 33,
+    "name": "Landmark University, Omu-Aran",
+    "viceChancellor": "Prof. Charity O. Aremu",
+    "website": "https://www.lmu.edu.ng",
+    "yearEstablished": 2011
+  },
+  {
+    "id": 34,
+    "name": "Lead City University, Ibadan",
+    "viceChancellor": "Prof. Kabiru Aderemi Adeyemo",
+    "website": "https://www.lcu.edu.ng",
+    "yearEstablished": 2005
+  },
+  {
+    "id": 35,
+    "name": "Madonna University, Okija",
+    "viceChancellor": "Prof. Uchenna Casmir Anyanwu",
+    "website": "https://www.madonnauniversity.edu.ng",
+    "yearEstablished": 1999
+  },
+  {
+    "id": 36,
+    "name": "Mcpherson University, Seriki Sotayo, Ajebo",
+    "viceChancellor": "Prof. Adegbaye F. Igbasan",
+    "website": "https://www.mcu.edu.ng",
+    "yearEstablished": 2012
+  },
+  {
+    "id": 37,
+    "name": "Micheal & Cecilia Ibru University",
+    "viceChancellor": "Prof. (Mrs.) Ibiynka A. Fuwape",
+    "website": "https://mciu.edu.ng/",
+    "yearEstablished": 2015
+  },
+  {
+    "id": 38,
+    "name": "Mountain Top University",
+    "viceChancellor": "Prof Elijah Ayolabi",
+    "website": "https://www.mtu.edu.ng",
+    "yearEstablished": 2015
+  },
+  {
+    "id": 39,
+    "name": "Nile University of Nigeria, Abuja",
+    "viceChancellor": "Prof. Osman Nuri Aras",
+    "website": "https://www.nileuniversity.edu.ng/",
+    "yearEstablished": 2009
+  },
+  {
+    "id": 40,
+    "name": "Novena University, Ogume",
+    "viceChancellor": "Prof Chris Aniche Okoroafor",
+    "website": "https://www.novenauniversity.edu.ng",
+    "yearEstablished": 2005
+  },
+  {
+    "id": 41,
+    "name": "Obong University, Obong Ntak",
+    "viceChancellor": "Professor Udouda M Ekanemesang",
+    "website": "https://www.obonguniversity.net",
+    "yearEstablished": 2007
+  },
+  {
+    "id": 42,
+    "name": "Oduduwa University, Ipetumodu - Osun State",
+    "viceChancellor": "Prof. Benjamin Segun Aribisala",
+    "website": "https://www.oduduwauniversity.edu.ng",
+    "yearEstablished": 2009
+  },
+  {
+    "id": 43,
+    "name": "Pan-Atlantic University, Lagos",
+    "viceChancellor": "Professor Enase Okonedo",
+    "website": "https://www.pau.edu.ng",
+    "yearEstablished": 2002
+  },
+  {
+    "id": 44,
+    "name": "Paul University, Awka - Anambra State",
+    "viceChancellor": "Professor Obiora Nwosu",
+    "website": "https://www.pauluniversity.edu.ng",
+    "yearEstablished": 2009
+  },
+  {
+    "id": 45,
+    "name": "Redeemer's University, Ede",
+    "viceChancellor": "Professor Anthony Enisan Akinlo",
+    "website": "https://www.run.edu.ng",
+    "yearEstablished": 2005
+  },
+  {
+    "id": 46,
+    "name": "Renaissance University, Enugu",
+    "viceChancellor": "Prof. Patrick Egbunam Emekekwue",
+    "website": "https://www.rnu.edu.ng",
+    "yearEstablished": 2005
+  },
+  {
+    "id": 47,
+    "name": "Rhema University, Obeama-Asa - Rivers State",
+    "viceChancellor": "Professor O. C. Onwudike",
+    "website": "https://www.rhemauniversity.edu.ng",
+    "yearEstablished": 2009
+  },
+  {
+    "id": 48,
+    "name": "Ritman University, Ikot Ekpene, Akwa Ibom",
+    "viceChancellor": "Prof. Celestine A Ntuen",
+    "website": "https://www.ritmanuniversity.edu.ng",
+    "yearEstablished": 2015
+  },
+  {
+    "id": 49,
+    "name": "Salem University, Lokoja",
+    "viceChancellor": "Prof. Alewo Johnson Akub",
+    "website": "https://www.salemuniversity.edu.ng",
+    "yearEstablished": 2007
+  },
+  {
+    "id": 50,
+    "name": "Glorious Vision University, Ogwa, Edo State",
+    "viceChancellor": "Prof. Babatunde A. Idowu",
+    "website": "https://www.sau.edu.ng",
+    "yearEstablished": 2011
+  },
+  {
+    "id": 51,
+    "name": "Southwestern University, Oku Owa",
+    "viceChancellor": "Prof. Jide Oluwajuyitan",
+    "website": "https://www.southwesternuniversity.edu.ng",
+    "yearEstablished": 2012
+  },
+  {
+    "id": 52,
+    "name": "Summit University, Offa",
+    "viceChancellor": "Prof. Abiodun Musa Aibinu",
+    "website": "https://www.summituniversity.edu.ng",
+    "yearEstablished": 2015
+  },
+  {
+    "id": 53,
+    "name": "Tansian University, Umunya",
+    "viceChancellor": "Professor Edward Chukwuka Orji",
+    "website": "https://tansianuniversity.edu.ng/",
+    "yearEstablished": 2007
+  },
+  {
+    "id": 54,
+    "name": "University of Mkar, Mkar",
+    "viceChancellor": "Prof. Zacharys A. Gundu",
+    "website": "https://www.unimkar.edu.ng",
+    "yearEstablished": 2005
+  },
+  {
+    "id": 55,
+    "name": "Veritas University, Abuja",
+    "viceChancellor": "Prof. Yacinth E. Ichoku",
+    "website": "https://www.veritas.edu.ng",
+    "yearEstablished": 2007
+  },
+  {
+    "id": 56,
+    "name": "Wellspring University, Evbuobanosa - Edo State",
+    "viceChancellor": "Professor F E Obi Ikediugwu",
+    "website": "https://www.wellspringuniversity.net",
+    "yearEstablished": 2009
+  },
+  {
+    "id": 57,
+    "name": "Wesley University Ondo",
+    "viceChancellor": "Professor Tola Badejo",
+    "website": "https://www.wesleyuni.edu.ng",
+    "yearEstablished": 2007
+  },
+  {
+    "id": 58,
+    "name": "Western Delta University, Oghara Delta State",
+    "viceChancellor": "Prof. (Mrs) Olete Okobiah",
+    "website": "https://wdu.edu.ng",
+    "yearEstablished": 2007
+  },
+  {
+    "id": 59,
+    "name": "Christopher University Mowe",
+    "viceChancellor": "Prof. Oyelana Olatunji",
+    "website": "https://www.christopheruniversity.edu.ng/",
+    "yearEstablished": 2015
+  },
+  {
+    "id": 60,
+    "name": "Kola Daisi University Ibadan, Oyo State",
+    "viceChancellor": "Prof. Kolade Ayorinde",
+    "website": "https://www.koladaisiuniversity.edu.ng/",
+    "yearEstablished": 2016
+  },
+  {
+    "id": 61,
+    "name": "Anchor University Ayobo Lagos State",
+    "viceChancellor": "Prof. J O Afolayan",
+    "website": "https://www.aul.edu.ng/",
+    "yearEstablished": 2016
+  },
+  {
+    "id": 62,
+    "name": "Dominican University Ibadan Oyo State",
+    "viceChancellor": "Prof. Jacinta Opara",
+    "website": "https://www.dui.edu.ng/",
+    "yearEstablished": 2016
+  },
+  {
+    "id": 63,
+    "name": "Legacy University, Okija Anambra State",
+    "viceChancellor": "Prof. Moses Nkem Chendo",
+    "website": "https://www.legacyuniversity.edu.ng/",
+    "yearEstablished": 2016
+  },
+  {
+    "id": 64,
+    "name": "Arthur Javis University Akpoyubo Cross River State",
+    "viceChancellor": "Prof. Julian Osuji",
+    "website": "https://www.arthurjarvisuniversity.edu.ng/",
+    "yearEstablished": 2016
+  },
+  {
+    "id": 65,
+    "name": "Ojaja University Eiyenkorin, Kwara State",
+    "viceChancellor": "Prof. Jeleel Olasunkanmi, Ojuade",
+    "website": "https://www.crownhilluniversity.edu.ng/",
+    "yearEstablished": 2016
+  },
+  {
+    "id": 66,
+    "name": "Coal City University Enugu State",
+    "viceChancellor": "Prof. Afam Icha-Ituma",
+    "website": "https://www.ccu.edu.ng/",
+    "yearEstablished": 2016
+  },
+  {
+    "id": 67,
+    "name": "Clifford University Owerrinta Abia State",
+    "viceChancellor": "Prof. Chimezie A Omeonu",
+    "website": "https://www.clifforduni.edu.ng/",
+    "yearEstablished": 2016
+  },
+  {
+    "id": 68,
+    "name": "Spiritan University, Nneochi Abia State",
+    "viceChancellor": "Prof. Remy Onyewuenyi",
+    "website": "https://www.spiritanuniversity.edu.ng",
+    "yearEstablished": 2017
+  },
+  {
+    "id": 69,
+    "name": "Precious Cornerstone University, Oyo",
+    "viceChancellor": "Prof. Julius Kolawole Oloke",
+    "website": "https://www.pcu.edu.ng",
+    "yearEstablished": 2017
+  },
+  {
+    "id": 70,
+    "name": "PAMO University of Medical Sciences, Port Harcourt",
+    "viceChancellor": "Prof. Michael Diejomaoh",
+    "website": "https://www.pums.edu.ng",
+    "yearEstablished": 2017
+  },
+  {
+    "id": 71,
+    "name": "Atiba University Oyo",
+    "viceChancellor": "Prof Sunday Okeniyi",
+    "website": "",
+    "yearEstablished": 2017
+  },
+  {
+    "id": 72,
+    "name": "Eko University of Medical and Health Sciences Ijanikin, Lagos",
+    "viceChancellor": "Professor Muheez Alani Durosinmi",
+    "website": "https://www.ekounivmed.edu.ng",
+    "yearEstablished": 2017
+  },
+  {
+    "id": 73,
+    "name": "Skyline University, Kano",
+    "viceChancellor": "Dr. Ajith Kumar V V",
+    "website": "https://www.sun.edu.ng",
+    "yearEstablished": 2018
+  },
+  {
+    "id": 74,
+    "name": "Greenfield University, Kaduna",
+    "viceChancellor": "Prof. Simon Katung",
+    "website": "https://www.gfu.edu.ng",
+    "yearEstablished": 2019
+  },
+  {
+    "id": 75,
+    "name": "Dominion University Ibadan, Oyo State",
+    "viceChancellor": "Prof Olajide A. Olorunisola",
+    "website": "https://www.dominionuniversity.edu.ng/",
+    "yearEstablished": 2019
+  },
+  {
+    "id": 76,
+    "name": "Trinity University Ogun State",
+    "viceChancellor": "Professor Charles Korede Ayo",
+    "website": "https://www.trinityuniversity.edu.ng/",
+    "yearEstablished": 2019
+  },
+  {
+    "id": 77,
+    "name": "Westland University Iwo, Osun State",
+    "viceChancellor": "Prof. Oshiotse A. Okwilagwe",
+    "website": "",
+    "yearEstablished": 2019
+  },
+  {
+    "id": 78,
+    "name": "Topfaith University, Mkpatak, Akwa Ibom State",
+    "viceChancellor": "Prof. Patrick James Ebewo",
+    "website": "",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 79,
+    "name": "Thomas Adewumi University, Oko-Irese, Kwara State",
+    "viceChancellor": "Professor Francisca Oladipo",
+    "website": "https://www.tau.edu.ng/",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 80,
+    "name": "Maranatha University, Lagos",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 81,
+    "name": "Ave Maria University, Piyanko, Nasarawa State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 82,
+    "name": "Al-Istiqama University, Sumaila, Kano State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 83,
+    "name": "Mudiame University, Irrua, Edo State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 84,
+    "name": "Havilla University, Nde-Ikom, Cross River State",
+    "viceChancellor": "Prof. Ejor Tiku Ntuokwa",
+    "website": "https://havillauniversity.edu.ng/",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 85,
+    "name": "Claretian University of Nigeria, Nekede, Imo State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 86,
+    "name": "NOK University, Kachia, Kaduna State",
+    "viceChancellor": "Prof. Ishaya Haruna Nock",
+    "website": "",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 87,
+    "name": "Karl-Kumm University, Vom, Plateau State",
+    "viceChancellor": "Prof. Nanven Audu Gambo",
+    "website": "",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 88,
+    "name": "James Hope University, Lagos, Lagos State",
+    "viceChancellor": "Prof. Chukuka Enwemeka",
+    "website": "",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 89,
+    "name": "Maryam Abacha American University of Nigeria, Kano State",
+    "viceChancellor": "Prof. Mohammad Israr",
+    "website": "https://www.maaun.edu.ng/",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 90,
+    "name": "Capital City University, Kano State",
+    "viceChancellor": "Prof Sadiq Zubair Abubakar",
+    "website": "https://www.ccuk.edu.ng/",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 91,
+    "name": "Ahman Pategi University, Kwara State",
+    "viceChancellor": "Prof. Adebola Mahfouz Adedimeji",
+    "website": "",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 92,
+    "name": "University of Offa, Kwara State",
+    "viceChancellor": "Prof. Musa Aibinu",
+    "website": "",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 93,
+    "name": "Mewar International University, Masaka, Nasarawa State",
+    "viceChancellor": "",
+    "website": "https://www.miu.edu.ng/",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 94,
+    "name": "Edusoko University, Bida, Niger State",
+    "viceChancellor": "Prof. Muhammad Alkali",
+    "website": "",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 95,
+    "name": "Philomath University, Kuje, Abuja",
+    "viceChancellor": "Prof. Gylych Jelilov",
+    "website": "",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 96,
+    "name": "Khadija University, Majia, Jigawa State",
+    "viceChancellor": "Prof. Hassana Sani Darma",
+    "website": "",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 97,
+    "name": "Anan University, Kwall, Plateau State",
+    "viceChancellor": "Prof. Inuwa Musa-Fodio",
+    "website": "",
+    "yearEstablished": 2021
+  },
+  {
+    "id": 98,
+    "name": "North Eastern University, Gombe",
+    "viceChancellor": "Prof. Yusuph Amuda Yahaya",
+    "website": "https://pru.edu.ng/",
+    "yearEstablished": 2022
+  },
+  {
+    "id": 99,
+    "name": "Al-Ansar University, Maiduguri, Borno",
+    "viceChancellor": "Prof. Abubakar Kundiri",
+    "website": "",
+    "yearEstablished": 2022
+  },
+  {
+    "id": 100,
+    "name": "Margaret Lawrence University, Umunede, Delta State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2022
+  },
+  {
+    "id": 101,
+    "name": "Khalifa Isiyaku Rabiu University, Kano",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2022
+  },
+  {
+    "id": 102,
+    "name": "Sports University, Idumuje, Ugboko, Delta State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2022
+  },
+  {
+    "id": 103,
+    "name": "Baba Ahmed University, Kano State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2022
+  },
+  {
+    "id": 104,
+    "name": "Saisa University of Medical Sciences and Technology, Sokoto State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2022
+  },
+  {
+    "id": 105,
+    "name": "Nigerian British University, Asa, Abia State",
+    "viceChancellor": "Professor Hakeem Fawehinmi",
+    "website": "",
+    "yearEstablished": 2022
+  },
+  {
+    "id": 106,
+    "name": "Peter University, Achina-Onneh Anambra State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2022
+  },
+  {
+    "id": 107,
+    "name": "Newgate University, Minna, Niger State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2022
+  },
+  {
+    "id": 108,
+    "name": "European University of Nigeria, Duboyi, FCT",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2022
+  },
+  {
+    "id": 109,
+    "name": "NorthWest University Sokoto State",
+    "viceChancellor": "Prof. Mukhtar Umar Bunza",
+    "website": "https://nwus.edu.ng/",
+    "yearEstablished": 2022
+  },
+  {
+    "id": 110,
+    "name": "Rayhaan University, Kebbi",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 111,
+    "name": "Muhammad Kamalud University Kwara",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 112,
+    "name": "Sam Maris University, Ondo",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 113,
+    "name": "Aletheia University, Ago-Iwoye Ogun State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 114,
+    "name": "Lux Mundi University Umuahia, Abia State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 115,
+    "name": "Maduka University, Ekwegbe, Enugu State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 116,
+    "name": "PeaceLand University, Enugu State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 117,
+    "name": "Amadeus University, Amizi, Abia State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 118,
+    "name": "Vision University, Ikogbo, Ogun State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 119,
+    "name": "Azman University, Kano State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 120,
+    "name": "Huda University, Gusau, Zamfara State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 121,
+    "name": "Franco British International University, Kaduna State",
+    "viceChancellor": "Prof. Abdullahi Sabo Muhammad",
+    "website": "https://fbiu.edu.ng/",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 122,
+    "name": "Canadian University of Nigeria, Abuja",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 123,
+    "name": "Gerar University of Medical Science Imope Ijebu, Ogun State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 124,
+    "name": "British Canadian University, Obufu Cross River State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 125,
+    "name": "Hensard University, Toru-Orua, Sagbama, Bayelsa State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 126,
+    "name": "Amaj University, Kwali, Abuja",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 127,
+    "name": "Phoenix University, Agwada, Nasarawa State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 128,
+    "name": "Wigwe University, Isiokpo Rivers State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 129,
+    "name": "Hillside University of Science and Technology, Okemisi, Ekiti State",
+    "viceChancellor": "Prof. Iheanyichukwu Okey Okoro",
+    "website": "https://www.hust.edu.ng",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 130,
+    "name": "University on the Niger, Umunya, Anambra state",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 131,
+    "name": "Elrazi Medical University Yargaya University, Kano State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 132,
+    "name": "Venite University, Iloro-Ekiti, Ekiti State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 133,
+    "name": "Shanahan University Onitsha, Anambra State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 134,
+    "name": "The Duke Medical University, Calabar, Cross River State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 135,
+    "name": "Mercy Medical University, Iwo, Ogun State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 136,
+    "name": "Cosmopolitan University Abuja",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 137,
+    "name": "Miva Open University, Abuja FCT",
+    "viceChancellor": "Prof. Tayo Arulogun",
+    "website": "https://miva.university/",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 138,
+    "name": "Iconic Open University, Sokoto State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 139,
+    "name": "West Midlands Open University, Ibadan, Oyo State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 140,
+    "name": "Al-Muhibbah Open University, Abuja",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 141,
+    "name": "El-Amin University, Minna, Niger State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 142,
+    "name": "College of Petroleum and Energy Studies, Kaduna State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 143,
+    "name": "Jewel University, Gombe state",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 144,
+    "name": "Prime University, Kuje, FCT Abuja",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 145,
+    "name": "Nigerian University of Technology and Management, Apapa, Lagos State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 146,
+    "name": "Al-Bayan University, Ankpa, Kogi State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2023
+  },
+  {
+    "id": 147,
+    "name": "Lighthouse University, Evbobanosa, Edo State",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2024
+  },
+  {
+    "id": 148,
+    "name": "African University of Economics, FCT, Abuja",
+    "viceChancellor": "",
+    "website": "",
+    "yearEstablished": 2024
+  }
+]
