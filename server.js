@@ -19,6 +19,7 @@ const PORT = process.env.PORT || 8000;
 // Basic CORS configuration
 const corsOptions = {
   origin: [
+    "https://research-hub-p8q9.onrender.com",
     "http://localhost:5173",
     "http://localhost:5174",
     "http://localhost:5175",
